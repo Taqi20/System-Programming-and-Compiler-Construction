@@ -1,0 +1,5 @@
+&LAB ADDM D1, D2, D3
+A 1,D1
+A 2,D2
+A 3,D3
+END
